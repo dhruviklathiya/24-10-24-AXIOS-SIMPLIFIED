@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Think and grow rich",
+      "author": "Someone",
+      "id": "2"
+    },
+    {
+      "title": "Hyperfocus",
+      "author": "Chris",
+      "id": "3"
+    },
+    {
+      "title": "D",
+      "author": "L",
+      "id": "4"
+    },
+    {
+      "id": "63ed",
+      "title": "Hello",
+      "author": "USER"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
