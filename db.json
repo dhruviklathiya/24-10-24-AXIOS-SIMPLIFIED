@@ -1,24 +1,29 @@
 {
   "posts": [
     {
-      "title": "Think and grow rich",
+      "title": "Think and grow poor",
       "author": "Someone",
       "id": "2"
     },
     {
       "title": "Hyperfocus",
-      "author": "Chris",
+      "author": "Chriss",
       "id": "3"
     },
     {
-      "title": "D",
-      "author": "L",
+      "title": "Mr.Bean",
+      "author": "The legend",
       "id": "4"
     },
     {
       "id": "63ed",
       "title": "Hello",
-      "author": "USER"
+      "author": "ERww"
+    },
+    {
+      "id": "6ss3ed",
+      "title": "Hellos",
+      "author": "ERww"
     }
   ],
   "comments": [],
